@@ -7,3 +7,8 @@ By running the sript **Visualize_data.py**, we will have following output:
   <img src="demo.gif" width=800><br/>
   <i>Vietnam time use</i>
 </p>
+
+## Requirements
+
+* **pandas**
+* **d3blocks** 
